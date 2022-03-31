@@ -1,0 +1,22 @@
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin: 0;
+}
+#bg{
+    background: url("sampleimg.jpg") 
+    no-repeat center center/cover;
+    position: absolute;
+    height: 65vw;
+    width: 100vw;
+    z-index: -1;
+    top: 0;
+}
+#loading{
+    color: white;
+    font-size: 50px;
+   
+}

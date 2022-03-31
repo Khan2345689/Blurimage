@@ -1,0 +1,36 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Comforter&display=swap');
+    .container{    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+button{
+    background-color: blue;
+    color: white;
+    width: 70px;
+    height: 40px;
+    font-family: 'Comforter', cursive;
+    border-radius: 5px;
+
+}
+.calculator{
+    background-color: #655D8A;
+    padding: 50px;
+    border-radius: 11px;
+}
+input{
+    height: 27px;
+    /* width: 142px; */
+    border-radius: 3px;
+}
+#abc{
+    height: 37px;
+    width: 39px;
+    border-radius: 1px;
+    /* color: pink; */
+    background-color: #FA4EAB; 
+}
+#def{
+    background-color: #FA4EAB
+}
